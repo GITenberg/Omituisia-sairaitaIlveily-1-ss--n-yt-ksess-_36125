@@ -1,0 +1,26 @@
+_repo: Omituisia-sairaitaIlveily-1-ss--n-yt-ksess-_36125
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Helander, Mikko Akseli
+    gutenberg_agent_id: '38090'
+    url: http://www.gutenberg.org/2009/agents/38090
+description: ''
+gutenberg_issued: '2011-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36125'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PH'
+title: 'Omituisia sairaita
+
+  Ilveily 1:ssä näytöksessä'
+url: http://www.gutenberg.org/ebooks/36125
